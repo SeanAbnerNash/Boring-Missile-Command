@@ -1,5 +1,5 @@
 ﻿  missile.cpp
-c:\users\user\documents\visual studio 2017\projects\boring missile command]\boring missile command]\missile.cpp(20): warning C4091: 'typedef ': ignored on left of 'Position' when no variable is declared
-c:\users\user\documents\visual studio 2017\projects\boring missile command]\boring missile command]\missile.cpp(26): warning C4091: 'typedef ': ignored on left of 'twats' when no variable is declared
-  Boring Missile Command].vcxproj -> C:\Users\User\Documents\Visual Studio 2017\Projects\Boring Missile Command]\Debug\Boring Missile Command].exe
-  Boring Missile Command].vcxproj -> C:\Users\User\Documents\Visual Studio 2017\Projects\Boring Missile Command]\Debug\Boring Missile Command].pdb (Partial PDB)
+c:\users\user\documents\github\boring-missile-command\boring missile command]\boring missile command]\missile.cpp(20): warning C4091: 'typedef ': ignored on left of 'Position' when no variable is declared
+c:\users\user\documents\github\boring-missile-command\boring missile command]\boring missile command]\missile.cpp(26): warning C4091: 'typedef ': ignored on left of 'twats' when no variable is declared
+  Boring Missile Command].vcxproj -> C:\Users\User\Documents\GitHub\Boring-Missile-Command\Boring Missile Command]\Debug\Boring Missile Command].exe
+  Boring Missile Command].vcxproj -> C:\Users\User\Documents\GitHub\Boring-Missile-Command\Boring Missile Command]\Debug\Boring Missile Command].pdb (Partial PDB)

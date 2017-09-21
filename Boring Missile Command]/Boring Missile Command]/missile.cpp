@@ -166,7 +166,7 @@ int main()
 		std::cout << "Input the Y CoOrdinates" << std::endl;
 		std::cin >> tempY;
 
-		//launchCode();
+		launchCode();
 
 		ONE.targetLocation.xPos = tempX;//ADD TARGET CHOICE
 		ONE.targetLocation.yPos = tempY;
